@@ -1,10 +1,8 @@
-
-
-def add(a,b):
-    return a+b;
-
-def say_hello():
-    print('hello hola')
+def Add(a, b):
+        return a + b
+        
+def SayHello():
+        print("sup world from srcmake")
 
 if __name__ == '__main__':
-    say_hello()
+        SayHello()
